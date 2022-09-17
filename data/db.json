@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Site",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted.Why do we use it?\nIt is a long established fact that a reader will be distracted.Why do we use it?\nIt is a long established fact that a reader will be distracted.Why do we use it?\nIt is a long established fact that a reader will be distracted.Why do we use it?\nIt is a long established fact that a reader will be distracted.Why do we use it?\nIt is a long established fact that a reader will be distracted.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Akachukwu Boy",
+      "body": "Akachukwu is a good boy.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "I would have killed a lot..",
+      "body": "I really would have killed a lot.",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
